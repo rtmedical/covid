@@ -1,6 +1,6 @@
 O Covid  é baseado no visualizador Weasis em Java
 
-![Weasis](weasis-distributions/resources/images/about.png)
+![Weasis](viewer/weasis-distributions/resources/images/about.png)
 
 * [Informações sobre o Weasis](https://nroduit.github.io)
 
